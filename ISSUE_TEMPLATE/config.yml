@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: DFINITY Developer Forum
+    url: https://forum.dfinity.org
+    about: The Official DFINITY Discourse Forum
+  - name: DFINITY Dev Discord
+    url: https://discord.gg/raqHw2PU3z
+    about: The Official DFINITY Developer Discord
