@@ -1,1 +1,1 @@
-# Motoko Bootcamp - March (5th to 12th)
+# Motoko Bootcamp : supercharging the Internet Computer.
