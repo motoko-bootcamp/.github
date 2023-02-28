@@ -1,1 +1,1 @@
-# Motoko Bootcamp : supercharging the Internet Computer.
+# Motoko Bootcamp : Building the Future together on the Internet Computer 🏕️
